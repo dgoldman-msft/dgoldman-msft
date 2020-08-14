@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://64.media.tumblr.com/2dd4d7ffef659c784463a8550fc5c937/tumblr_nmlzen6xr71te4bufo1_400.gif>
 
 I am a 20 year veteran of Microsoft working in the Office 365 Messaging space for large global customers. Once upon a time I was the maintainer of (OAB) Offline Address List and OabInteg.
 
