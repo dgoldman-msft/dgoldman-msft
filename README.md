@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://github.com/dgoldman-msft/Dave.jpg>
 -->
+<img src="https://64.media.tumblr.com/2dd4d7ffef659c784463a8550fc5c937/tumblr_nmlzen6xr71te4bufo1_400.gif>
 
-I am a 20 year veteran of Microsoft working in the Office 365 Messaging space for large global customers. Once upon a time I was the maintainer of OAB and OabInteg.
+I am a 20 year veteran of Microsoft working in the Office 365 Messaging space for large global customers. Once upon a time I was the maintainer of (OAB) Offline Address List and OabInteg.
 
-### Find me all around the web:
+I’m currently working on a :fire: project called PSFramework. To learn more about this framework you can visit [PSFramework.org](http://psframework.org) or visit this project here on [GitHub](https://github.com/PowershellFrameworkCollective/psframework).
+
+### Find me on the web:
 
 - [Twitter](http://twitter.com/matrixsurfer128) :bird:
 - [LinkedIn](http://linkedin.com/in/davegoldman) 👩‍💻
@@ -27,7 +29,7 @@ I am a 20 year veteran of Microsoft working in the Office 365 Messaging space fo
 
 ### Some Fun Facts about me:
 
-I love programming in PowerShell and C#. In my spare time I enjoy playing sports and spending time wiht my son getting whooped on the Xbox. Follow me online and if you would like to share some ideas or collaborate, let's do it! :zap:
+I love programming in PowerShell and C#. In my spare time I enjoy playing sports and spending time with my son getting whooped on the Xbox. Follow me online and if you would like to share some ideas or collaborate, let's do it! :zap:
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dgoldman-msft&show_icons=true&line_height=30)
