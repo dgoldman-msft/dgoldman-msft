@@ -29,6 +29,6 @@ I am a 20 year veteran of Microsoft working in the Office 365 Messaging space fo
 
 I love programming in PowerShell and C#. In my spare time I enjoy playing sports and spending time wiht my son getting whooped on the Xbox. Follow me online and if you would like to share some ideas or collaborate, let's do it! :zap:
 
-<div align="center">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=dgoldman-msft&show_icons=true&line_height=30)</div> 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=dgoldman-msft&show_icons=true&line_height=30)
 <div align="center">80111119101114831041011081083282111991071153333</div>
