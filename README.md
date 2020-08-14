@@ -31,4 +31,4 @@ I love programming in PowerShell and C#. In my spare time I enjoy playing sports
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dgoldman-msft&show_icons=true&line_height=30)
-<div align="center">80111119101114831041011081083282111991071153333</div>
+<div align="center">80 111 119 101 114 83 104 101 108 108 32 82 111 99 107 115 33 33</div>
