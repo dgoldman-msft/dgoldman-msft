@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey everyone, I'm Dave Goldman. AKA the Hackathon Queen 👋
 
 <!--
 **dgoldman-msft/dgoldman-msft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/dgoldman-msft/Dave.jpg>
 -->
+
+I am a 20 year veteran of Microsoft working in the Office 365 Messaging space for large global customers. Once upon a time I was the maintainer of OAB and OabInteg.
+
+### Find me all around the web:
+
+- [Twitter](http://twitter.com/matrixsurfer128) :bird:
+- [LinkedIn](http://linkedin.com/in/davegoldman) 👩‍💻
+
+
+### Some Fun Facts about me:
+
+:zap: I love programming in PowerShell and C#. In my spare time I enjoy playing sports and spending time wiht my son getting whooped on the Xbox. Follow me online and if you would like to share some ideas or collaborate, let's do it!
