@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 I am a 20 year veteran of Microsoft working in the Office 365 Messaging space for large global customers. Once upon a time I was the maintainer of (OAB) Offline Address List and OabInteg.
 
-I’m currently working on a :fire: project called PSFramework. To learn more about this framework you can visit [PSFramework.org](http://psframework.org) or visit this project here on [GitHub](https://github.com/PowershellFrameworkCollective/psframework).
+I’m currently working on two :fire: projects:
+1. PSFramework -To learn more about this AMAZING framework you can visit [PSFramework.org](http://psframework.org) or visit this project here on [GitHub](https://github.com/PowershellFrameworkCollective/psframework).
+
+2. PSServicePrincipal - If you are in the Office 365 Exchange space and you need a quick way to automate onboarding for certificate based authentication this module will take you about 2 minutes to create your certs (install to local cert stores and upload of your cert to your azure app), create your azure enterprise application,apply the correct permissions, etc. Download from [PSGallery](https://www.powershellgallery.com/packages/PSServicePrincipal/1.0.11) and [github](https://github.com/dgoldman-msft/PSServicePrincipal).
 
 ### Find me on the web:
 
