@@ -25,7 +25,7 @@ I’m currently working on two :fire: projects:
 ### Find me on the web:
 
 - [Twitter](http://twitter.com/matrixsurfer128) :bird:
-- [LinkedIn](http://linkedin.com/in/davegoldman) 👩‍💻
+- [LinkedIn](https://www.linkedin.com/in/dave-goldman-a728b74/) 👩‍💻
 - [Email](mailto:dgoldman@dgoldman.org) 📫
 
 
